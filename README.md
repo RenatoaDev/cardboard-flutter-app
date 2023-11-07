@@ -14,3 +14,8 @@
 - Confirmação de exclusão para evitar perda de dados.
 - Contador sequencial para os títulos dos cards.
 - Implementação desacoplada utilizando GetIt.
+
+
+Arquivo APK através do link abaixo:
+
+[Download APK](https://drive.google.com/file/d/1atCX6wmuhPLkOCJE1vKg0ZyY8_zmEi2z/view?usp=sharing)
