@@ -1,0 +1,40 @@
+name: card_board
+description: Card Board.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.2.2
+  flutter_svg: ^2.0.9
+  flutter_mobx: ^2.1.1
+  mobx: ^2.2.1
+  mobx_codegen: ^2.4.0
+  get_it: ^7.6.4
+  webview_flutter: ^4.4.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  build_runner: ^2.4.6
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+
+
+
